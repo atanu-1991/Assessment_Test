@@ -1,0 +1,6 @@
+pandas
+requests
+openpyxl
+BeautifulSoup4
+matplotlib
+spacy
